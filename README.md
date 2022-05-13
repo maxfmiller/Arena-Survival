@@ -1,4 +1,4 @@
-# Arena-Survial
+# Arena-Survival
 
 'Arena Survival' is a short platformer I created in spring of 2022. The objective of the game is to survive in an arena for as long as possible, while 
 avoiding enemies and traps that spawn once the player has reached a certain score.
